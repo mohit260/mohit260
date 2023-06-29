@@ -9,9 +9,9 @@
 
 - 🌱 I worked on different *Python automation projects*
 
-- 📝 I regularly write articles on [@mohitdon.vyas/](https://medium.com/@mohitdon.vyas/)
+- 📝 I regularly write articles on [@mohit_vyas/](https://medium.com/@mohitdon.vyas/)
 
-- 📫 How to reach me *Mohitvyas260@gmail.com*
+- 📫 How to reach me *mohitvyas260@gmail.com*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit260&label=Profile%20views&color=0e75b6&style=flat" alt="mohit260" /> </p>
 
