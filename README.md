@@ -13,11 +13,11 @@
 
 - 📫 How to reach me *Mohitvyas260@gmail.com*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goutam980&label=Profile%20views&color=0e75b6&style=flat" alt="goutam980" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit260&label=Profile%20views&color=0e75b6&style=flat" alt="mohit260" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goutam980" alt="goutam980" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/goutamt95261742" target="blank"><img src="https://img.shields.io/twitter/follow/goutamt95261742?logo=twitter&style=for-the-badge" alt="goutamt95261742" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamsrkmohit" target="blank"><img src="https://img.shields.io/twitter/follow/goutamt95261742?logo=twitter&style=for-the-badge" alt="iamsrkmohit" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
