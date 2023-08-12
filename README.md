@@ -9,7 +9,7 @@
 
 - 🌱 I worked on different *Python automation projects*
 
-- 📝 I regularly write articles on [@mohit_vyas/](https://medium.com/@mohitdon.vyas/)
+- 📝 I regularly write articles on [@mohit_vyas/](https://medium.com/@mohitvyas026)
 
 - 📫 How to reach me *mohitvyas260@gmail.com*
 
