@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [@mohit_vyas/](https://medium.com/@mohitvyas026)
 
-- 📫 How to reach me *mohitvyas260@gmail.com*
+- 📫 How to reach me *mohitvyas026@gmail.com*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit260&label=Profile%20views&color=0e75b6&style=flat" alt="mohit260" /> </p>
 
